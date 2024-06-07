@@ -1,4 +1,4 @@
-package com.muzafferatmaca.androidtvcompose.ui.theme
+package com.muzafferatmaca.androidtvcompose.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
