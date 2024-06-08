@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidTvCompose</string>
+    <string name="show_details">Show Details</string>
 </resources>
